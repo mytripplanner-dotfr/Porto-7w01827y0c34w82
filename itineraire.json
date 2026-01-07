@@ -1,0 +1,212 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🍷",
+  "titre": "Escapade relaxante à Porto : Douceur et saveurs du Douro",
+  "budget_total": "Environ 650 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "2h15 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la Ribeira",
+      "legende": "Après un vol court, laissez-vous charmer par l'ambiance authentique de Porto. Flânez le long du Douro dans le quartier historique de la Ribeira, classé au patrimoine mondial de l'UNESCO, et savourez un premier dîner typique avec vue sur le fleuve. Une entrée en matière douce et pittoresque.",
+      "lieu": "Porto",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Porto (OPO)</strong>: Récupération des bagages et transfert vers le centre-ville.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Détendez-vous et déposez vos affaires dans votre hébergement au cœur de Porto.",
+        "🚶‍♂️ <strong>Balade relaxante dans le quartier de la Ribeira</strong>: Promenez-vous le long des quais colorés, admirez les ponts emblématiques et imprégnez-vous de l'atmosphère unique de ce quartier historique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Porto-Francisco Sá-Carneiro, Porto",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.2483, "lng": -8.6814 }
+        },
+        {
+          "nom_recherche": "Ribeira, Porto",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 41.1407, "lng": -8.6112 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Le métro (ligne E) relie l'aéroport au centre de Porto en environ 30 minutes. C'est le moyen le plus simple et économique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "📚",
+      "titre": "Culture, vues panoramiques et dégustation de Porto",
+      "legende": "Débutez la journée par une immersion littéraire dans une librairie emblématique, puis prenez de la hauteur pour admirer Porto. L'après-midi sera dédiée à la détente avec une promenade dans un jardin paisible, suivie d'une dégustation des célèbres vins de Porto dans les caves historiques de Vila Nova de Gaia.",
+      "lieu": "Porto",
+      "activites": [
+        "📚 <strong>Visite de la Livraria Lello</strong>: Découvrez l'une des plus belles librairies du monde, réputée pour son architecture néo-gothique et son escalier flamboyant.",
+        "🌳 <strong>Promenade aux Jardins do Palácio de Cristal</strong>: Profitez d'une balade paisible dans ces jardins romantiques offrant des vues imprenables sur le Douro et la ville.",
+        "🍷 <strong>Dégustation de vin de Porto à Vila Nova de Gaia</strong>: Traversez le pont Dom Luís I et visitez une cave pour en apprendre davantage sur l'histoire et la production du vin de Porto, suivie d'une dégustation relaxante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Livraria Lello, Porto",
+          "categorie": "Librairie",
+          "coords": { "lat": 41.1459, "lng": -8.6139 }
+        },
+        {
+          "nom_recherche": "Jardins do Palácio de Cristal, Porto",
+          "categorie": "Jardin",
+          "coords": { "lat": 41.1477, "lng": -8.6247 }
+        },
+        {
+          "nom_recherche": "Caves de Porto, Vila Nova de Gaia",
+          "categorie": "Cave à vin",
+          "coords": { "lat": 41.1365, "lng": -8.6167 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Conseil Livraria Lello",
+          "texte": "Achetez vos billets en ligne à l'avance pour éviter les longues files d'attente. Le prix du billet est généralement déductible si vous achetez un livre."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Accès aux caves",
+          "texte": "Les caves de Porto sont situées de l'autre côté du fleuve, à Vila Nova de Gaia. Le pont Dom Luís I offre une traversée agréable à pied avec des vues magnifiques."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🚢",
+      "titre": "Croisière sur le Douro et brise marine à Foz",
+      "legende": "Laissez-vous porter par les eaux calmes du Douro lors d'une croisière relaxante sous les six ponts de Porto. L'après-midi, échappez à l'agitation de la ville en rejoignant le quartier côtier de Foz do Douro, où l'air marin et les promenades le long de l'océan Atlantique vous offriront une parenthèse de sérénité.",
+      "lieu": "Porto & Foz do Douro",
+      "activites": [
+        "🚢 <strong>Croisière des Six Ponts sur le Douro</strong>: Embarquez pour une croisière paisible qui vous fera découvrir Porto sous un autre angle, en passant sous ses célèbres ponts.",
+        "🚋 <strong>Trajet en tramway historique vers Foz do Douro</strong>: Prenez le tramway ligne 1 depuis la Ribeira pour un voyage pittoresque le long du fleuve jusqu'à l'embouchure.",
+        "🌊 <strong>Promenade relaxante à Foz do Douro</strong>: Profitez de l'air marin, baladez-vous le long de la côte, admirez le phare et les plages urbaines."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cais da Ribeira, Porto",
+          "categorie": "Quai",
+          "coords": { "lat": 41.1407, "lng": -8.6112 }
+        },
+        {
+          "nom_recherche": "Foz do Douro, Porto",
+          "categorie": "Quartier côtier",
+          "coords": { "lat": 41.1492, "lng": -8.6742 }
+        },
+        {
+          "nom_recherche": "Farol de Felgueiras, Porto",
+          "categorie": "Phare",
+          "coords": { "lat": 41.1499, "lng": -8.6793 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Météo à Foz",
+          "texte": "Même par beau temps, la brise marine peut être fraîche à Foz do Douro. Prévoyez une petite veste pour plus de confort."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Vues imprenables",
+          "texte": "La croisière offre des opportunités de photos magnifiques des rives de Porto et de Vila Nova de Gaia, ainsi que des ponts."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Marché, derniers souvenirs et départ",
+      "legende": "Avant de quitter Porto, plongez dans l'effervescence du Mercado do Bolhão, récemment rénové, pour une dernière immersion dans la vie locale et quelques emplettes gourmandes. Profitez des dernières heures pour flâner et acheter des souvenirs, puis rejoignez l'aéroport, le cœur rempli de doux souvenirs portugais.",
+      "lieu": "Porto",
+      "activites": [
+        "🛍️ <strong>Visite du Mercado do Bolhão</strong>: Explorez ce marché emblématique, récemment restauré, où vous trouverez des produits frais, des spécialités locales et de l'artisanat.",
+        "🎁 <strong>Achats de souvenirs et flânerie</strong>: Profitez des rues commerçantes du centre-ville pour dénicher des souvenirs ou simplement vous imprégner une dernière fois de l'ambiance portugaise.",
+        "🛫 <strong>Transfert vers l'aéroport et vol retour</strong>: Rejoignez l'aéroport de Porto pour votre vol vers Paris, france, la tête pleine de souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado do Bolhão, Porto",
+          "categorie": "Marché",
+          "coords": { "lat": 41.1481, "lng": -8.6097 }
+        },
+        {
+          "nom_recherche": "Rua de Santa Catarina, Porto",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 41.1477, "lng": -8.6074 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps de trajet",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport, surtout si vous voyagez pendant les heures de pointe."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 233 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 20 €/pers (métro, bus, tram)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 140 €/pers (35€/jour pour 3 repas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 175 €/pers (sur base de 350€ pour 4 nuits en 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 80 €/pers (Livraria Lello, dégustation, croisière)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Avril et Octobre (hors saison)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est l'Euro (€). Les cartes bancaires sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le portugais est la langue officielle. L'anglais est parlé dans les zones touristiques. Apprendre quelques mots de portugais sera apprécié.", "symbole": "🗣️" },
+    { "titre": "Le réseau de transports en commun (métro, bus, tram) est efficace et permet de se déplacer facilement dans la ville et ses environs.", "symbole": "🚇" },
+    { "titre": "En mai, les températures varient généralement entre 12°C et 20°C. Prévoyez des couches de vêtements et un imperméable léger.", "symbole": "🌦️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "L'inspiration de Poudlard",
+      "texte": "La célèbre Livraria Lello de Porto aurait inspiré J.K. Rowling pour certains décors de Poudlard dans la saga Harry Potter, notamment son escalier majestueux. L'auteure a vécu à Porto au début des années 90."
+    },
+    {
+      "symbole": "🌉",
+      "titre": "Le pont Eiffel... ou presque !",
+      "texte": "Le pont Maria Pia, l'un des six ponts de Porto, a été conçu par Théophile Seyrig, un associé de Gustave Eiffel. On y retrouve d'ailleurs la patte de l'ingénieur français, ce qui lui vaut souvent d'être confondu avec une œuvre d'Eiffel lui-même !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "La Francesinha",
+      "description": "Un sandwich gargantuesque et emblématique de Porto, composé de plusieurs viandes (saucisse, jambon, steak), recouvert de fromage fondu et nappé d'une sauce tomate-bière épicée. Souvent servi avec des frites, c'est un plat réconfortant et très copieux."
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Bacalhau à Brás",
+      "description": "Un plat de morue effilochée mélangée avec des oignons, des frites allumettes et des œufs brouillés, le tout parsemé d'olives noires et de persil frais. Une recette simple mais délicieuse, très populaire au Portugal."
+    },
+    {
+      "symbole": "🍷",
+      "titre": "Le Vin de Porto",
+      "description": "Ce vin fortifié, produit dans la vallée du Douro, est la boisson emblématique de la ville. Il se décline en plusieurs variétés (Ruby, Tawny, Vintage, LBV) et se déguste généralement en apéritif ou en digestif. Une expérience incontournable à Porto."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-OPO/2026-05-13/2026-05-17", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Porto", "url": "https://www.visitportoandnorth.travel/Porto/Visitar/Paginas/Homepage.aspx", "symbole": "📘" },
+    { "legende": "Transports en commun", "titre": "STCP (bus et tram)", "url": "https://www.stcp.pt/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Porto", "url": "https://www.ipma.pt/pt/otempo/prev.localidade.html?localID=PORTO", "symbole": "🌤️" }
+  ]
+}
